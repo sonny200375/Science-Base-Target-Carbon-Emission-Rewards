@@ -6,9 +6,13 @@ Near-term science-based targets galvanize the action required for significant em
 # THE SCIENCE BEHIND SCIENCE-BASED NET-ZERO TARGETS
 As described in SR15, scenarios that limit warming to 1.5°C with no or limited overshoot reach netzero CO2  emissions around 2050, accompanied by rapid reductions in non-CO2  GHG emissions. 
 These scenarios entail profound transitions in the global energy, industry, urban, and land systems that involve:
+
 • Full or near-full decarbonization for energy and industrial CO2 emissions achieving a zero-emissions energy supply system by mid-century.
+
 • Eliminating CO2  emissions associated with agriculture, forestry, and land-use
+
 • Deep reductions in non-CO2  emissions from all sectors.
+
 • Removing CO2  from the atmosphere to neutralize residual emissions and, potentially, sustain net negative emissions that reduce cumulative CO2  in the atmosphere over-time
 
 Figure 1 Schematic target year dependency of near-term SBT in comparison to the target year independency of long-term SBT. 
@@ -24,21 +28,26 @@ Figure 2 ICT Sector emissions trajectories
 Sub-sector science based target (SBTs) is then calculated by multiplying the combined Scope 1 and 2 emissions in the base line year (CCb) by an emissions reduction factor (ERF). 
 The emissions reduction factor is based on the appropriate sub-sector emission reduction pathway  and the baseline and target years.
 Emission Reduction Factor values for mobile, fixed and data centre sub-sectors, and for different baseline and target years compatible
+
 SBTs = CCb . ERF
 
 Carbon Emission Based Rewards only can be withdraw or released when the SBT Validated achieve below Calculated SBT as year target.
+
 Figure 3 Emission Reduction Factors
 ![datacentererf](https://user-images.githubusercontent.com/77085029/208820173-c70956eb-e047-443b-89ae-ce5f782cbb27.png)
 
 # APPLICATION EXECUTION
 This Application run on Plutus Environment and to perform simulation open the Plutus Test Background Environment through website https://playground.plutus.iohkdev.io/.
+
 Copy and paste the program and executed the files.
 
 # APPLICATION POSITIVE AND NEGATIVE TEST
 To simulate the Reward Application can go through positive test which are follow condition :
 
 a. SBT Valdated Value shall be below Calculated SBT , and
+
 b. Address Beneficiary shall be the same with target reward Beneficiary, and
+
 c. Pin Authorized to released the Rewards shall be the same
 
 Figure 4 Positive Simulation Test with SBT Validation Lower than Calculated SBT 
@@ -48,8 +57,11 @@ Figure 5 Positive Simulation Test Result in Blockchain with SBT Validation Lower
 ![positivetest2](https://user-images.githubusercontent.com/77085029/208822954-ab5aaadf-262a-44d5-8ce8-d55e30f8390b.png)
 
 To simulate negative tes Reward Scheme can go through follow condition :
+
 a. SBT Valdated Value shall be above Calculated SBT , and
+
 b. Address Beneficiary not the same with target reward Beneficiary, and
+
 c. Pin Authorized to released the Rewards not the same
 
 
