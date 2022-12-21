@@ -21,7 +21,7 @@ Figure 1 Schematic target year dependency of near-term SBT in comparison to the 
 # THE SCIENCE-BASED NET-ZERO TARGETS SCOPE BOUNDARY
 This Simple Application simulated rewarding features for Information and Communication Technology (ICTs) companies in setting science based targets for greenhouse gases (GHGs) according to a set of new decarbonisation pathways, described in detail in Recommendation ITU-T L.1470 ‘GHG emissions trajectories for the ICT sector compatible with the UNFCCC Paris Agreement’1  and aligned to the IPCC Special Report on 1.5°C and developed to be used as a sectoral target-setting approach by the Science Based Targets Initiative (SBTi).
 
-### Figure 2 ICT Sector emissions trajectories
+#### Figure 2 ICT Sector emissions trajectories
 ![ICT_Trajectory](https://user-images.githubusercontent.com/77085029/208819561-f5c8e01b-ab05-496f-b346-6e172d48ad21.png)
 
 # CALCULATION OF SCIENCE-BASED NET-ZERO TARGETS
@@ -33,7 +33,7 @@ SBTs = CCb . ERF
 
 Carbon Emission Based Rewards only can be withdraw or released when the SBT Validated achieve below Calculated SBT as year target.
 
-### Figure 3 Emission Reduction Factors
+#### Figure 3 Emission Reduction Factors
 ![datacentererf](https://user-images.githubusercontent.com/77085029/208820173-c70956eb-e047-443b-89ae-ce5f782cbb27.png)
 
 # APPLICATION EXECUTION
@@ -50,11 +50,11 @@ b. Address Beneficiary shall be the same with target reward Beneficiary, and
 
 c. Pin Authorized to released the Rewards shall be the same
 
-### Figure 4 Positive Simulation Test with SBT Validation Lower than Calculated SBT 
+#### Figure 4 Positive Simulation Test with SBT Validation Lower than Calculated SBT 
 ![positivetest1](https://user-images.githubusercontent.com/77085029/208822936-473bafd7-1120-40a1-9206-24c31bc0930f.png)
 
 
-### Figure 5 Positive Simulation Test Result in Blockchain with SBT Validation Lower than Calculated SBT
+#### Figure 5 Positive Simulation Test Result in Blockchain with SBT Validation Lower than Calculated SBT
 ![positivetest2](https://user-images.githubusercontent.com/77085029/208822954-ab5aaadf-262a-44d5-8ce8-d55e30f8390b.png)
 
 To simulate negative tes Reward Scheme can go through follow condition :
@@ -66,9 +66,9 @@ b. Address Beneficiary not the same with target reward Beneficiary, and
 c. Pin Authorized to released the Rewards not the same
 
 
-### Figure 6 Negative Simulation Test with SBT Validation Higner than Calculated SBT 
+#### Figure 6 Negative Simulation Test with SBT Validation Higner than Calculated SBT 
 ![negativetest1](https://user-images.githubusercontent.com/77085029/208822233-dfac0f53-4f65-4606-8be1-489909a6cff2.png)
 
 
-### Figure 7 Negative Simulation Test Result in Blockchain with SBT Validation Higner than Calculated SBT
+#### Figure 7 Negative Simulation Test Result in Blockchain with SBT Validation Higner than Calculated SBT
 ![negativetest2](https://user-images.githubusercontent.com/77085029/208822245-a353c5ca-72ef-44bd-8c93-c0e1f32cb64f.png)
