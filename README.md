@@ -15,7 +15,7 @@ These scenarios entail profound transitions in the global energy, industry, urba
 
 • Removing CO2  from the atmosphere to neutralize residual emissions and, potentially, sustain net negative emissions that reduce cumulative CO2  in the atmosphere over-time
 
-Figure 1 Schematic target year dependency of near-term SBT in comparison to the target year independency of long-term SBT. 
+#### Figure 1 Schematic target year dependency of near-term SBT in comparison to the target year independency of long-term SBT. 
 ![sbtgraph](https://user-images.githubusercontent.com/77085029/208818638-70e22af1-1cc7-4964-8b29-1b0d8b14cc76.jpg)
 
 # THE SCIENCE-BASED NET-ZERO TARGETS SCOPE BOUNDARY
