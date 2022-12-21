@@ -36,6 +36,7 @@ Copy and paste the program and executed the files.
 
 # APPLICATION POSITIVE AND NEGATIVE TEST
 To simulate the Reward Application can go through positive test which are follow condition :
+
 a. SBT Valdated Value shall be below Calculated SBT , and
 b. Address Beneficiary shall be the same with target reward Beneficiary, and
 c. Pin Authorized to released the Rewards shall be the same
