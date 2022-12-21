@@ -11,6 +11,12 @@ These scenarios entail profound transitions in the global energy, industry, urba
 • Deep reductions in non-CO2  emissions from all sectors.
 • Removing CO2  from the atmosphere to neutralize residual emissions and, potentially, sustain net negative emissions that reduce cumulative CO2  in the atmosphere over-time
 
-Figure 1 Schematic target year dependency of near-term science-based targets in comparison to the target year independency of long-term science-based targets. 
+Figure 1 Schematic target year dependency of near-term SBT in comparison to the target year independency of long-term SBT. 
 ![sbtgraph](https://user-images.githubusercontent.com/77085029/208818638-70e22af1-1cc7-4964-8b29-1b0d8b14cc76.jpg)
+
+# THE SCIENCE-BASED NET-ZERO TARGETS SCOPE BOUNDARY
+This Simple Application simulated rewarding features for Information and Communication Technology (ICTs) companies in setting science based targets for greenhouse gases (GHGs) according to a set of new decarbonisation pathways, described in detail in Recommendation ITU-T L.1470 ‘GHG emissions trajectories for the ICT sector compatible with the UNFCCC Paris Agreement’1  and aligned to the IPCC Special Report on 1.5°C and developed to be used as a sectoral target-setting approach by the Science Based Targets Initiative (SBTi).
+
+Figure 2 ICT Sector emissions trajectories
+![ICT_Trajectory](https://user-images.githubusercontent.com/77085029/208819561-f5c8e01b-ab05-496f-b346-6e172d48ad21.png)
 
