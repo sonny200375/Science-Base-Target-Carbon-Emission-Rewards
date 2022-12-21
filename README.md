@@ -53,6 +53,7 @@ c. Pin Authorized to released the Rewards shall be the same
 Figure 4 Positive Simulation Test with SBT Validation Lower than Calculated SBT 
 ![positivetest1](https://user-images.githubusercontent.com/77085029/208822936-473bafd7-1120-40a1-9206-24c31bc0930f.png)
 
+
 Figure 5 Positive Simulation Test Result in Blockchain with SBT Validation Lower than Calculated SBT
 ![positivetest2](https://user-images.githubusercontent.com/77085029/208822954-ab5aaadf-262a-44d5-8ce8-d55e30f8390b.png)
 
@@ -67,6 +68,7 @@ c. Pin Authorized to released the Rewards not the same
 
 Figure 6 Negative Simulation Test with SBT Validation Higner than Calculated SBT 
 ![negativetest1](https://user-images.githubusercontent.com/77085029/208822233-dfac0f53-4f65-4606-8be1-489909a6cff2.png)
+
 
 Figure 7 Negative Simulation Test Result in Blockchain with SBT Validation Higner than Calculated SBT
 ![negativetest2](https://user-images.githubusercontent.com/77085029/208822245-a353c5ca-72ef-44bd-8c93-c0e1f32cb64f.png)
