@@ -20,3 +20,28 @@ This Simple Application simulated rewarding features for Information and Communi
 Figure 2 ICT Sector emissions trajectories
 ![ICT_Trajectory](https://user-images.githubusercontent.com/77085029/208819561-f5c8e01b-ab05-496f-b346-6e172d48ad21.png)
 
+# CALCULATION OF SCIENCE-BASED NET-ZERO TARGETS
+Sub-sector science based target (SBTs) is then calculated by multiplying the combined Scope 1 and 2 emissions in the base line year (CCb) by an emissions reduction factor (ERF). 
+The emissions reduction factor is based on the appropriate sub-sector emission reduction pathway  and the baseline and target years.
+Emission Reduction Factor values for mobile, fixed and data centre sub-sectors, and for different baseline and target years compatible
+SBTs = CCb . ERF
+
+Figure 3 Emission Reduction Factors
+![datacentererf](https://user-images.githubusercontent.com/77085029/208820173-c70956eb-e047-443b-89ae-ce5f782cbb27.png)
+
+# APPLICATION EXECUTION
+This Application run on Plutus Environment and to perform simulation open the Plutus Test Background Environment through website https://playground.plutus.iohkdev.io/.
+Copy and paste the program and executed the files.
+
+# APPLICATION POSITIVE AND NEGATIVE TEST
+To simulate the Reward Application can go through positive test which are follow condition :
+a. SBT Valdated Value shall be below Calculated SBT , and
+b. Address Beneficiary shall be the same with target reward Beneficiary, and
+c. Pin Authorized to released the Rewards shall be the same
+
+To simulate negative tes Reward Scheme can go through follow condition :
+a. SBT Valdated Value shall be above Calculated SBT , and
+b. Address Beneficiary not the same with target reward Beneficiary, and
+c. Pin Authorized to released the Rewards not the same
+
+
