@@ -47,6 +47,10 @@ Further Development :
 
 * The Best SBT Achievement Rewards Smart Contract
 
+* Application Error Handling Smart Contract
+
+* Application Security Handling Smart Contract 
+
 
 # APPLICATION EXECUTION
 This Application run on Plutus Environment and to perform simulation open the Plutus Test Background Environment through :
