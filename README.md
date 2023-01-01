@@ -5,6 +5,7 @@ Near-term science-based targets galvanize the action required for significant em
 
 # THE SCIENCE BEHIND SCIENCE-BASED NET-ZERO TARGETS
 As described in SR15, scenarios that limit warming to 1.5°C with no or limited overshoot reach net zero CO2  emissions around 2050, accompanied by rapid reductions in non-CO2  GHG emissions. 
+
 These scenarios entail profound transitions in the global energy, industry, urban, and land systems that involve:
 
 • Full or near-full decarbonization for energy and industrial CO2 emissions achieving a zero-emissions energy supply system by mid-century.
