@@ -20,7 +20,7 @@ These scenarios entail profound transitions in the global energy, industry, urba
 ![sbtgraph](https://user-images.githubusercontent.com/77085029/208818638-70e22af1-1cc7-4964-8b29-1b0d8b14cc76.jpg)
 
 # THE SCIENCE-BASED NET-ZERO TARGETS SCOPE BOUNDARY
-This Simple Application simulated rewarding features for Information and Communication Technology (ICTs) companies in setting science based targets for greenhouse gases (GHGs) according to a set of new decarbonisation pathways, described in detail in Recommendation ITU-T L.1470 ‘GHG emissions trajectories for the ICT sector compatible with the UNFCCC Paris Agreement’1  and aligned to the IPCC Special Report on 1.5°C and developed to be used as a sectoral target-setting approach by the Science Based Targets Initiative (SBTi).
+This Simple Application simulated rewarding features for Information and Communication Technology (ICTs) companies in setting science based targets for greenhouse gases (GHGs) according to a set of new decarbonisation pathways, described in detail in Recommendation ITU-T L.1470 ‘GHG emissions trajectories for the ICT sector compatible with the UNFCCC Paris Agreement’1  and aligned to the IPCC Special Report on 1.5°C and developed to be used as a sectoral target-setting approach by the Science Based Targets Initiative (SBTi).
 
 #### Figure 2 ICT Sector emissions trajectories
 ![ICT_Trajectory](https://user-images.githubusercontent.com/77085029/208819561-f5c8e01b-ab05-496f-b346-6e172d48ad21.png)
@@ -36,6 +36,17 @@ Carbon Emission Based Rewards only can be withdraw or released when the SBT Vali
 
 #### Figure 3 Emission Reduction Factors
 ![datacentererf](https://user-images.githubusercontent.com/77085029/208820173-c70956eb-e047-443b-89ae-ce5f782cbb27.png)
+
+# FURTHER DECENTRALIZED APPLICATION DEVELOPMENT
+
+Further Development :
+
+* Multi Party Validator as part of Smart Contract
+
+* Multi User/ Entity Registered
+
+* The Best SBT Achievement Rewards Smart Contract
+
 
 # APPLICATION EXECUTION
 This Application run on Plutus Environment and to perform simulation open the Plutus Test Background Environment through :
