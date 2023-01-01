@@ -37,9 +37,55 @@ Carbon Emission Based Rewards only can be withdraw or released when the SBT Vali
 ![datacentererf](https://user-images.githubusercontent.com/77085029/208820173-c70956eb-e047-443b-89ae-ce5f782cbb27.png)
 
 # APPLICATION EXECUTION
-This Application run on Plutus Environment and to perform simulation open the Plutus Test Background Environment through website https://playground.plutus.iohkdev.io/.
+This Application run on Plutus Environment and to perform simulation open the Plutus Test Background Environment through :
 
-Copy and paste the program and executed the files.
+
+1. Methode 1 - Plutus Playground Website 
+
+    - Open Browser and website address : https://playground.plutus.iohkdev.io/.
+
+    - Copy and paste the program files to Plutus Background Application Editor
+
+    - Run Program and Simulated the application through positive and negative test.
+     
+2. Method 2 - Local Plutus Background Application 
+   
+   (Note : Ensure that all PBA system files have been installed)
+
+   * Open 2 (two) Linux/ Ubuntu command shell terminal  
+   
+     ** Launch Plutus Server on 1st shell terminal 
+   
+        - type : cd $HOME/plutus/plutus-apps <enter>
+   
+        - type : nix-shell <enter>
+    
+        - type : cd $HOME/plutus/plutus-apps/plutus-playground-server <enter>
+   
+        - run  : plutus-playground-server
+
+     ** Launch Plutus Server on 2nd shell terminal
+   
+        - type : cd $HOME/plutus/plutus-apps <enter>
+   
+        - type : nix-shell <enter>
+    
+        - type : cd $HOME/plutus/plutus-apps/plutus-playground-client <enter>
+   
+        - run  : npm run start
+
+     ** Launch Plutus Plutus Background on Chrome Browser
+   
+        - type : https://localhost:8009/ <enter>
+   
+        - Warning messages will shown due to there is no certificat on https 
+        
+        - Select and Click Advanced 
+   
+        - Click Proceed to localhost (unsafe)
+
+     ** Further follow as method 1 procedure
+
 
 # APPLICATION POSITIVE AND NEGATIVE TEST
 To simulate the Reward Application can go through positive test which are follow condition :
