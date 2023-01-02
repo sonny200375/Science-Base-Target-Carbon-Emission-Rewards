@@ -41,7 +41,7 @@ Carbon Emission Based Rewards only can be withdraw or released when the SBT Vali
 
 Further Development :
 
-* Multi Party Validator as part of Smart Contract
+* Multi Party/ Community Validator as part of Smart Contract
 
 * Multi User/ Entity Registered
 
